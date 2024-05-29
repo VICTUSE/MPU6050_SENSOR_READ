@@ -1,0 +1,12 @@
+../Drivers/MPU6050drivers/MPU6050_Driver.c:17:10:MPU6050_SensorTest	2
+../Drivers/MPU6050drivers/MPU6050_Driver.c:44:9:PWR_CLK_Manage	10
+../Drivers/MPU6050drivers/MPU6050_Driver.c:112:9:MPU6050_FREQ_CONFİG	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:124:9:ExtrnalFrameSYNC	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:136:9:FS_SEL_Config	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:149:9:AFS_SEL_Config	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:163:9:DLFP_Config	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:180:10:Read_Data_16	2
+../Drivers/MPU6050drivers/MPU6050_Driver.c:199:9:Read_Data_8	2
+../Drivers/MPU6050drivers/MPU6050_Driver.c:217:9:TEMP_DEGREE	1
+../Drivers/MPU6050drivers/MPU6050_Driver.c:275:12:GYRO_DEGREE	5
+../Drivers/MPU6050drivers/MPU6050_Driver.c:326:11:ACC_DEGREE	5
